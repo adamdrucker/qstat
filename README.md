@@ -1,2 +1,3 @@
 # qstat
-* generate some brief queue statistics in a readable format
+* generate some brief Slurm queue statistics in a readable format
+* tailored to a current MIT cluster
